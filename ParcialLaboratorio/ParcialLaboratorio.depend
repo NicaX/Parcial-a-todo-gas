@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1538485771 source:c:\users\alumno\desktop\parciallaboratorio\borrador.c
+
+1538487529 source:c:\users\alumno\desktop\parciallaboratorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Peliculas.h"
+	"Peliculas.c"
+
+1538488760 c:\users\alumno\desktop\parciallaboratorio\peliculas.h
+
+1538488824 c:\users\alumno\desktop\parciallaboratorio\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	"Peliculas.h"
+
